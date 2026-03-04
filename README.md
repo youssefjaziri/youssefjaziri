@@ -68,50 +68,6 @@ My experience spans **Artificial Intelligence, Machine Learning, Robotics, and F
 
 ---
 
-## 🔬 Experience  
-
-### 🤖 Research Intern — University of Coimbra (2026)  
-- Developed an intelligent robotic guidance system  
-- Integrated conversational AI with a ROS2-based mobile robot  
-- Worked on perception, localization & system optimization  
-
-### 🏦 AI Intern — Arab Tunisian Bank (2024)  
-- Built ML-based fraud detection system  
-- Implemented Random Forest & Isolation Forest models  
-- Improved accuracy through advanced feature engineering  
-
-### 🌐 Web Developer Intern — Attijari Bank (2023)  
-- Contributed to front-end & back-end banking solutions  
-- Enhanced UX and internal banking workflows  
-
----
-
-## 📌 Featured Projects  
-
-### 🧬 AI-Driven Colorectal Cancer Detection  
-- Built an end-to-end AI pipeline using microbiome sequencing data  
-- Applied ML for predictive disease marker modeling  
-- 🏆 Best Senior ISS Project 2025  
-🔗 https://github.com/aramelheni/ColorectalCancer-Detection  
-
-### 🐾 PawPaw – Pet Matchmaking App  
-- Mobile app connecting pet owners in Tunisia  
-
-### 😊 Emotion Recognition System  
-- Real-time emotion prediction using ML  
-
-### 💄 Skin.tn Recommendation System  
-- Collaborative filtering recommendation engine  
-
----
-
-## 📚 Publication  
-
-**AI-Driven Pipeline for Early Colorectal Cancer Detection via 16S rRNA Microbiome Sequencing**  
-📍 AI2SD 2025 – Tangier, Morocco (Under Review)
-
----
-
 ## 🌍 Languages  
 
 🇹🇳 Arabic — Native  
