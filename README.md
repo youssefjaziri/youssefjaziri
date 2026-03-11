@@ -89,6 +89,13 @@ My experience spans **Artificial Intelligence, Machine Learning, Robotics, and F
 
 ---
 
+## 📊 GitHub Stats
+
+![Profile views](https://komarev.com/ghpvc/?username=youssefjaziri&label=Profile%20views&color=0e75b6&style=flat)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=youssefjaziri&hide_border=false)![](https://github-readme-stats.vercel.app/api?username=youssefjaziri&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefjaziri&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 ## 🌍 Languages  
 
 🇹🇳 Arabic — Native  
