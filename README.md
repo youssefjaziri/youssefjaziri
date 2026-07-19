@@ -2,7 +2,7 @@
 
 🤖 **Software Engineer | AI/ML & FinTech Enthusiast**
 
-📍 Coimbra, Portugal 🇵🇹 | Tunis, Tunisia 🇹🇳  
+📍 Tunis, Tunisia 🇹🇳  
 
 ---
 
